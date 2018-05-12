@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/446
     wikipedia: http://en.wikipedia.org/wiki/John_Dewey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40665#Studies-in-Logical-Theory
 gutenberg_issued: '2012-09-05'
 gutenberg_type: Text
 identifiers:
