@@ -1,0 +1,38 @@
+_repo: Studies-in-Logical-Theory_40665
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: ''
+gutenberg_issued: '2012-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40665'
+  lccn: 03022549
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BC'
+- !lcsh 'Judgment (Logic)'
+- !lcsh 'Logic'
+- !lcsh 'Thought and thinking'
+tableOfContents: 'Thought and its subject-matter, by J. Dewey -- Thought and its subject-matter:
+  the antecedents of thought, by J. Dewey -- Thought and its subject-matter: the datum
+  of thinking, by J. Dewey -- Thought and its subject-matter: the content and object
+  of thought, by J. Dewey -- Bosanquet''s theory of judgment, by H. B. Thompson --
+  Typical stages in the development of judgement, by S. F. McLennan -- The nature
+  of hypothesis, by M. L. Ashley -- Image and idea in logic, by W. C. Gore -- The
+  logic of the pre-Socratic philosophy, by W. A. Heidel -- Valuation as a logical
+  process, by H. W. Stuart -- Some logical aspects of purpose, by A. W. Moore.'
+title: Studies in Logical Theory
+url: http://www.gutenberg.org/ebooks/40665
